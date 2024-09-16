@@ -10,27 +10,20 @@ Hello, My name is Cordellius and I'm beginner to programming and developing. I d
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: [My Gmail](
+- 📫 How to reach me: ![icons8-gmail-logo](https://github.com/user-attachments/assets/fc9b410a-954f-4141-a5fb-add506f45a7a)
+("cordelliusshumon8@gmail.com" <cordelliusshumon8@gmail.com>) 
++ ![icons8-microsoft-teams-2019-48](https://github.com/user-attachments/assets/2e84c1ee-259a-488d-8e06-6920e3927aa4)  gci.241608@students.geneseeisd.org
 
 - 😄 Pronouns: he/him/his/himself
 
 - ⚡ Fun fact: I enjoy playing basketball
 
 <p align='center'> 
-<a href="https://www.linkedin.com/in/yourprofile/"> 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-</a> 
-<a href="https://mail.google.com/mail/u/0/#inbox">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-</a> 
-📫 How to reach me: <a href='mailto:cordelliusshumon8@gmail.com'>cordelliusshumon8@gmail.com</a> 
-</p> 
 <p align='center'> 
 <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
 </a> 
 <a href="https://github.com/yourusername/github-readme-stats"> 
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
-</a> 
-</p> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordelliusshumon8@gmail.com)
+ 
+
