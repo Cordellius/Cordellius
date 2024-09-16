@@ -10,7 +10,7 @@ Hello, My name is Cordellius and I'm beginner to programming and developing. I d
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: cordelliusshu
+- 📫 How to reach me: [My Gmail](
 
 - 😄 Pronouns: he/him/his/himself
 
