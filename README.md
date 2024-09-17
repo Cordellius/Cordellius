@@ -1,29 +1,26 @@
-## Cordellius 👋
-Hello, My name is Cordellius and I'm beginner to programming and developing. I don't know anything much related to java or python developing. This is my first time taking a computer science class. I enjoy playing video games and watching gaming videos so I thought learning how to make one could be interesting.
-- 🔭 I’m currently working on Unit 0 Functions, Variables
+### Hello, My name is Cordellius!
+I am 16 and I go to Beecher High School. I am a beginner and coding and don't know too much about it.
+I'm looking forward to learning more about coding and maybe eventually I'll become a professional coder. When I was younger, I used to see people make their own games and I always wanted to try and make my own game so that's another thing I'm looking forward to.
 
-- 🌱 I’m currently learning about named parameters in coding
+-🔭I'm currently working on my first Github README
 
-- 👯 I’m looking to collaborate on the number/guessing game
+-💻This is my first time taking a coding class ever
 
-- 🤔 I’m looking for help with everything
+-🏀I enjoy playing basketball and video games
 
-- 💬 Ask me about anything
+-🏫I have maintained a 3.0 or higher GPA
 
-- 📫 How to reach me: ![icons8-gmail-logo](https://github.com/user-attachments/assets/fc9b410a-954f-4141-a5fb-add506f45a7a)
-("cordelliusshumon8@gmail.com" <cordelliusshumon8@gmail.com>) 
-+ ![icons8-microsoft-teams-2019-48](https://github.com/user-attachments/assets/2e84c1ee-259a-488d-8e06-6920e3927aa4)  gci.241608@students.geneseeisd.org
+-💬I can be asked about anything and you will get a honest and valid response from me
 
-- 😄 Pronouns: he/him/his/himself
+-🤔Something I'm looking for help on is my number/guessing game assignment I have to do
 
-- ⚡ Fun fact: I enjoy playing basketball
+-📚I'm currently learning how to add emojis to text
+         
+-📫Someways I can be reached is by 
+   + <a href='mailto:cordelliusshumon8@gmail.com'>cordelliusshumon8@gmail.com
+   + <a href="https://www.linkedin.com/in/cordellius-shumon-98484a329/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   + gci.241608@students.geneseeisd.org 
 
-<p align='center'> 
-<p align='center'> 
-<a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
-</a> 
-<a href="https://github.com/yourusername/github-readme-stats"> 
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
- 
-
+![Cordellius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cordellius&show_icons=true&theme=tokyonight)
+      
+  
